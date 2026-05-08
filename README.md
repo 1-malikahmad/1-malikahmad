@@ -11,9 +11,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=1-malikahmad&theme=tokyonight"/>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=1-malikahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=1-malikahmad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1-malikahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1-malikahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
