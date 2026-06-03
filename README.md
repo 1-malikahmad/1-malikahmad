@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Conducting functional, usability, and performance testing for Android apps.<br>👯 I’m looking to collaborate on Automation testing initiatives to improve app quality and efficiency.<br>🤝 I’m looking for Learning advanced mobile automation tools like Appium.<br>🌱 I’m currently learning Mobile app automation testing frameworks.<br>💬 Ask me about Manual and automated mobile app testing techniques.<br>
+🔭 Currently focused on conducting functional, usability, and performance testing for Android applications.
+
+👯 Open to collaborating on automation testing initiatives that enhance app quality, reliability, and testing efficiency.
+
+🤝 Interested in exploring and mastering advanced mobile automation tools, including Appium and related frameworks.
+
+🌱 Continuously learning mobile app automation testing frameworks and best practices.
+
+💬 Feel free to ask me about manual testing, mobile automation strategies, test case design, and quality assurance techniques.
+
 
 
 ## 🌐 Socials:
